@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile projects java/kotlin,problem solving
 - 📫 How to reach me ...
 - 
--   LinkedIn:https://www.linkedin.com/in/alaa-gawish-669a911a7/
+-   LinkedIn:https://www.linkedin.com/in/alaagawish
 -   Facebook:https://www.facebook.com/alaaagawishh
 -   HackerRank:https://www.hackerrank.com/alaagawish
 
