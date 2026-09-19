@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 - 
 -   LinkedIn:https://www.linkedin.com/in/alaagawish
--   Facebook:https://www.facebook.com/alaaagawishh
 -   HackerRank:https://www.hackerrank.com/alaagawish
 
 <!---
